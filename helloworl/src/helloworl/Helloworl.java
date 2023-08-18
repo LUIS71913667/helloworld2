@@ -14,8 +14,10 @@ public class Helloworl {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hello world");
-        System.out.println("hola senatinos: ");
+        System.out.println("luis");
+        System.out.println("ING. SOFTWARE :v ");
+        System.out.println("4TO CICLO :v ");
+        
         
     }
     
